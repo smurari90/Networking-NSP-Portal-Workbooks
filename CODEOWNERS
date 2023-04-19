@@ -79,6 +79,7 @@
 
 /Workbooks/LogAnalytics*Workspace/** @microsoft/loganalytics @microsoft/applicationinsights-devtools
 
+/Workbooks/Network*Security*Perimeter/** @microsoft/networking-nsp-portal-workbooks
 
 /Workbooks/Activity*Log/AtScale/** @microsoft/loganalytics 
 /Workbooks/Activity*Log/Resource/** @microsoft/loganalytics 
